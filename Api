@@ -1,0 +1,8 @@
+1.To open 
+https://localhost:3000
+
+2.To get specific blog 
+https://localhost:3000/specify/index
+
+3.To add new Blog  
+click on sumbit  it will make /post request 
